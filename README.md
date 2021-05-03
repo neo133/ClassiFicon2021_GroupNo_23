@@ -12,6 +12,6 @@ Step3: run Task-2.ipynb
 
 Contributors:
 
-[@shreeshans123] (https://github.com/shreesshans123)
+[Shreeshan S](https://github.com/shreesshans123)
 
-[@SureddiRajesh] (https://github.com/SureddiRajesh)
+[Sureddi Rajesh](https://github.com/SureddiRajesh)
