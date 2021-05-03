@@ -9,3 +9,9 @@ Step1: run data_prep.ipynb
 Step2: run Task-1.ipynb
 
 Step3: run Task-2.ipynb
+
+Contributors:
+
+@shreeshans123
+
+@SureddiRajesh
